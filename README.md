@@ -5,4 +5,4 @@ Shantanu Motiani
 Felicia Otto 
 Megu Tsujibayashi 
 
-# This project is a part of Data Science and AI minor at UvA
+### This project is a part of Data Science and AI minor at UvA
