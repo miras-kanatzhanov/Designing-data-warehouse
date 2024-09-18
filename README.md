@@ -1,4 +1,8 @@
-# Team members:
+# Designing-data-warehouse
+
+This project is aimed at improving the commercial performance of the bike company through the creation of a data warehouse in SQL and visualization in Tableau.
+
+### Team members:
 
 Marharyta Dzhafarova 
 
